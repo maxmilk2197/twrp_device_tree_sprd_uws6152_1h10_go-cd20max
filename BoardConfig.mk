@@ -115,9 +115,6 @@ BOARD_VNDK_VERSION := current
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
-# Screen Rotation
-TW_ROTATION := 180
-
 # Security patch level
 VENDOR_SECURITY_PATCH := 2021-08-01
 
